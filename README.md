@@ -1,2 +1,1 @@
-# tinDog
-A start up template 
+TinDog Starting Files
